@@ -74,4 +74,9 @@
     .integrity{
         margin-top: -64px !important;
     }
+
+    .ourteams-card{
+        flex-wrap: wrap;
+        gap: 3;
+    }
 }
