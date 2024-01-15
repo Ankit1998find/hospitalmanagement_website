@@ -61,6 +61,7 @@
 
     .departments{
         height: 800px;
+        margin-bottom: -179px;
     } 
 
     .main-pattern-content .pattern-img img {
@@ -78,5 +79,23 @@
     .ourteams-card{
         flex-wrap: wrap;
         gap: 3;
+    }
+
+    .departments h2 {
+        padding: 50px 0px;
+        color: #F2F2F2;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 600;
+       
+    }
+
+    .ourteams-card .card a {
+        color: #0d6efd;
+        text-decoration: none;
+        height: 49px;
+        width: 72%;
+        padding: 1px 7px !important;
+        font-size: 14px;
     }
 }
